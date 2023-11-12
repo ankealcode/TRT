@@ -1,0 +1,33 @@
+{
+  "dependencies": {
+    "chalk": "^5.0.1",
+    "fs": "^0.0.1-security",
+    "gradient-string": "^2.0.2",
+    "https-proxy-agent": "^5.0.1",
+    "node-fetch": "^3.2.10"
+  },
+  "name": "TikTok-Report-Tools",
+  "version": "1.2.1",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ANKEALcode",
+  "license": "ISC",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ankealcode/TikTok-Report-Tools"
+  },
+  "keywords": [
+    "tiktok",
+    "tiktok-report",
+    "tiktok-bulk-report"
+  ],
+  "bugs": {
+    "url": "https://github.com/ankealcode/TikTok-Report-Tools/issues"
+  },
+  "homepage": "https://github.com/ankealcode/TikTok-Report-Tools#readme",
+  "description": ""
+}
