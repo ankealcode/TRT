@@ -12,4 +12,4 @@
 ![tutorial](https://cdn.discordapp.com/attachments/984547587904372806/1034532886369542277/tutorial_2.gif)
 
 # +5.000 laporan dalam waktu kurang dari satu menit
-![tmrb](https://cdn.discordapp.com/attachments/984931450723926066/1027562704006815745/unknown.png)
+![tmrb](https://cdn.discordapp.com/attachments/1174242417751371850/1174243148222959708/IMG_20231115_145843.jpg)
