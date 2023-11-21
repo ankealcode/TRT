@@ -16,13 +16,13 @@ process.on('uncaughtException' || "unhandledRejection", function (err) {
 
 function ascii() {
   console.clear()
-  const ascii = gradient.vice(`
-  ▄▄▄▄▄▪  ▄ •▄ ▄▄▄▄▄      ▄ •▄      ▄▄▄  ▄▄▄ . ▄▄▄·      ▄▄▄  ▄▄▄▄▄
-  •██  ██ █▌▄▌▪•██  ▪     █▌▄▌▪    ▀▄ █·▀▄.▀·▐█ ▄█▪     ▀▄ █·•██  
-  ▐█.▪▐█·▐▀▀▄· ▐█.▪ ▄█▀▄ ▐▀▀▄·     ▐▀▀▄ ▐▀▀▪▄ ██▀· ▄█▀▄ ▐▀▀▄  ▐█.▪
-  ▐█▌·▐█▌▐█.█▌ ▐█▌·▐█▌.▐▌▐█.█▌     ▐█•█▌▐█▄▄▌▐█▪·•▐█▌.▐▌▐█•█▌ ▐█▌·
-  ▀▀▀ ▀▀▀·▀  ▀ ▀▀▀  ▀█▄▀▪·▀  ▀    .▀  ▀ ▀▀▀ .▀   ▀█▄▀▪.▀  ▀ ▀▀▀                                                        
-  `)
+const ascii = gradient.vice(`
+            ▄▄▄▄▄▪   ▄ •▄ ▄▄▄▄▄       ▄ •▄     ▄▄▄   ▄▄▄ . ▄▄▄·      ▄▄▄ ▄▄▄▄▄
+            •██   ██ █▌▄▌▪•██  ▪       █▌▄▌▪   ▀▄ █  ·▀▄.▀▐█ ▄█▪     ▀▄ █ ·•██  
+             ▐█. ▪▐█·▐▀▀▄· ▐█.▪ ▄█▀▄  ▐▀▀▄·   ▐▀▀▄  ▐▀▀▪  ██▀· ▄█▀▄ ▐▀▀▄  ▐█.▪
+             ▐█▌·▐█▌▐█.█▌ ▐█▌·▐█▌.▐▌▐█.█▌    █ •█▌ ▐█▄▄▌▐█▪·•▐█▌.▐▌█ •█▌ ▐█·
+             ▀▀▀ ▀▀▀·▀  ▀ ▀▀▀  ▀█▄▀▪ ·▀  ▀   .▀   ▀  ▀▀▀ .▀    ▀█▄▀▪.▀   ▀ ▀▀▀                                                        
+`)
   console.log(ascii)
   console.log(chalk.grey('----------------------------------------------------------------------------------------------------------------------'))
   console.log(chalk.white('    https://github.com/ankealcode/TRT'),chalk.grey(" | "),chalk.white('https://github.com/ankealcode/TRT'),chalk.grey(" | "),chalk.white('https://github.com/ankealcode/TRT'),)
